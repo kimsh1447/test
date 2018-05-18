@@ -19,13 +19,16 @@ Once you're strong enough, save the world:
 echo 'You got to trust me on this, I saved the world'
 ```
 
-{% tabs %}
-{% tab title="First Tab" %}
+{% tabs first="First Tab", second="Second Tab", third="Third Tab" %}
 
-{% endtab %}
+{% content "first" %}
+Content for first tab ...
 
-{% tab title="Second Tab" %}
+{% content "second" %}
+Content for second tab ...
 
-{% endtab %}
+{% content "third" %}
+Content for third tab ...
+
 {% endtabs %}
 

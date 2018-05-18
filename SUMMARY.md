@@ -1,6 +1,7 @@
 # Table of contents
 
-* Initial page
 * [Renobit Manual](renobit-manual.md)
-* [Renobit API Document](untitled.md)
+* [Renobit API Document](renobit-api.md)
+* [Component Introduction](renobit-components.md)
+    * [DropdownComponent](components/dropdown.md)
 
