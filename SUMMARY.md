@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Test Sample](Sample.md)
 * [Renobit Manual](renobit-manual.md)
 * [Renobit API Document](renobit-api.md)
 * [Component Introduction](renobit-components.md)

@@ -25,7 +25,9 @@
         "hints",
         "simpletabs",
         "api",
-        "sectionx-fork"
+        "sectionx-fork",
+        "exercises",
+        "katex"
     ],
     "pluginsConfig": {
         "mathjax": {
