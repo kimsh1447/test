@@ -3,6 +3,7 @@
 * [Test Sample](Sample.md)
 * [Renobit Manual](renobit-manual.md)
 * [Renobit API Document](renobit-api.md)
+* [Template Component](components/template.md)
 * [Component Introduction](renobit-components.md)
     * [Basic Pack](components/basic/index.md)
     * [Form Pack](components/form/index.md)
