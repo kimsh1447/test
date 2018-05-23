@@ -44,6 +44,8 @@
 #### WScript Example
 <!-- js-console -->
 ```js
-this.options = [{text:"Sample",value:"sample"}];
-this.value = "";
+// DropdownComponent의 목록이 Sample01,Sample02로 변경되고, sample02가 선택되어지는 예제
+this.options = [{text:"Sample01",value:"sample01"},
+                {text:"Sample02",value:"sample02"}];
+this.value = "sample02";
 ```
