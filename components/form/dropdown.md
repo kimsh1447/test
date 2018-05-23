@@ -4,18 +4,12 @@
 #### Properties
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
-| options | Array<`option`[^1]>  | 옵션 목록                                  |
-| value   | String | 선택되어진 옵션 정보                                 |
+| autoExecute | boolean  | 자동 실행에 대한 옵션                                  |
 
-[^1]: *option json*
-```json
-{
-  text: "화면에 표시될 문자열",
-  value: "실제 데이터"
-}
-```
 ---
 #### Methods
+
+DropdownFieldComponent does not provide any methods.
 
 ---
 #### Events
