@@ -1,0 +1,41 @@
+{
+    "title":"Renobit",
+    "author":"WeMB",
+    "description":"Renobit Solution Documents",
+    "pdf":{
+        "pageNumbers":true,
+        "fontSize":12,
+        "fontFamily":"Arial",
+        "margin":{
+            "top":40,
+            "bottom":40,
+            "right":40,
+            "left":40
+        },
+        "paperSize":"a4"
+    },
+    "plugins":[
+        "nunjucks",
+        "anchors",
+        "include-highlight",
+        "mathjax",
+        "richquotes",
+        "toc",
+        "expandable-chapters",
+        "hints",
+        "simpletabs",
+        "api",
+        "sectionx-fork"
+    ],
+    "pluginsConfig": {
+        "mathjax": {
+          "forceSVG": true
+        },
+        "ga": {
+          "token": "UA-XXXXXXXX-1"
+        },
+        "sectionx": {
+            "tag": "b"
+        }
+      }
+}
