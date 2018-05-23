@@ -47,6 +47,12 @@
                 <li>Defined in static/component/2D/form/DropdownFieldComponent/DropdownFieldComponent.js:68</li>
             </ul>
         </aside>
+        <!-- parameter 설명 -->
+        <!-- <div class="parameters_title">Parameters</div>
+        <ul class="parameters">
+            <li>config: <span class="data_type">string</span></li>
+        </ul> -->
+        <div class="parameters_title">Returns: <span class="data_type">void</span></div>
         </li>
     </ul>
 </div>
@@ -85,9 +91,9 @@
 |이벤트명|설명|
 |---|---|
 |click|마우스 클릭시 발생|
-|change|값을 선택시 발생|
+|change[^2]|값을 선택시 발생|
 
-*detail information*
+[^2]*change event information*
 ```json
 {
     name: "change",
