@@ -1,5 +1,5 @@
-# Form Pack
-> 사용자 정의 형식을 구성할 수 있는 컴포넌트 팩
+# SVG Pack
+> Vector UI를 구성할 수 있는 컴포넌트 팩
 
 |Component|Description|
 |---|---|
