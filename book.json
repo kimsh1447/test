@@ -27,7 +27,8 @@
         "api",
         "sectionx-fork",
         "exercises",
-        "katex"
+        "katex",
+        "js-console"
     ],
     "pluginsConfig": {
         "mathjax": {

@@ -27,23 +27,21 @@
 
 
 {% exercise %}
-Define a variable `x` equal to 10.
+WScript 사용 예제
 
 {% initial %}
-var x =
+console.log('test');
 
 {% solution %}
-var x = 10;
+var value = this.value;
 
 {% validation %}
-assert(x == 10);
 
 {% context %}
-// This is context code available everywhere
-// The user will be able to evaluate `exposedVar`
-var exposedVar = 3;
-// ... or call `exposedFunction`
-function exposedFunction {
-    return 3;
-}
+
 {% endexercise %}
+
+<!-- js-console -->
+```js
+1 + 2;
+```

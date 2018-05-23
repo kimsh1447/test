@@ -40,3 +40,10 @@
     }]
 }
 ```
+
+#### WScript Example
+<!-- js-console -->
+```js
+this.options = [{text:"Sample",value:"sample"}];
+this.value = "";
+```
