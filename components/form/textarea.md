@@ -39,3 +39,7 @@ TextAreaFieldComponent does not provide any methods.
 // SearchFieldComponent의 값을 테스트로 입력하는 예제
 this.value = "테스트";
 ```
+
+---
+![gras](../../images/textarea.png)
+<p align="right" style="font-style:italic;">화면예시</p>

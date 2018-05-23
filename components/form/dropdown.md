@@ -4,7 +4,16 @@
 #### Properties
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
-| autoExecute | boolean  | 자동 실행에 대한 옵션                                  |
+| options | Array<`option`[^1]>  | 옵션 목록                                  |
+| value   | String | 선택되어진 옵션 정보                                 |
+
+[^1]: *option json*
+```json
+{
+  text: "화면에 표시될 문자열",
+  value: "실제 데이터"
+}
+```
 
 ---
 #### Methods
@@ -35,6 +44,7 @@ DropdownFieldComponent does not provide any methods.
 }
 ```
 
+---
 #### WScript Example
 <!-- js-console -->
 ```js
@@ -43,3 +53,7 @@ this.options = [{text:"Sample01",value:"sample01"},
                 {text:"Sample02",value:"sample02"}];
 this.value = "sample02";
 ```
+
+---
+![gras](../../images/dropdown.png)
+<p align="right" style="font-style:italic;">화면예시</p>

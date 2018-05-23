@@ -33,6 +33,7 @@ InputFieldComponent does not provide any methods.
 }
 ```
 
+---
 #### WScript Example
 <!-- js-console -->
 ```js
@@ -40,5 +41,6 @@ InputFieldComponent does not provide any methods.
 this.value = "테스트";
 ```
 
-#### Example
+---
 ![gras](../../images/input.png)
+<p align="right" style="font-style:italic;">화면예시</p>

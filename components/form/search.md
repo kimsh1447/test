@@ -49,7 +49,7 @@ SearchFieldComponent does not provide any methods.
 }
 ```
 
-
+---
 #### WScript Example
 <!-- js-console -->
 ```js
@@ -57,5 +57,6 @@ SearchFieldComponent does not provide any methods.
 this.value = "테스트";
 ```
 
-#### 예시화면
+---
 ![gras](../../images/search.png)
+<p align="right" style="font-style:italic;">화면예시</p>
