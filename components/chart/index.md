@@ -3,7 +3,12 @@
 
 |Component|Description|
 |---|---|
-|InputField|문자열을 입력할 수 있는 컴포넌트|
-|SearchField|검색을 위한 컴포넌트|
-|TextAreaField|다중 문자열을 입력할 수 있는 컴포넌트|
-|DropdownField|사용자 옵션을 정의하며 선택할 수 있는 컴포넌트|
+|Vertical Bar|수직 막대 컴포넌트|
+|Horizontal Bar|수평 막대 차트 컴포넌트|
+|Line|라인 차트 컴포넌트|
+|Pie|파이 차트 컴포넌트|
+|Stack Column|스택 컬럼 차트 컴포넌트|
+|Stack Bar|스택 바 차트 컴포넌트|
+|Area|영역 차트 컴포넌트|
+|Column Line|컬럼 라인 차트 컴포넌트|
+|Stack Line|스택 라인 차트 컴포넌트|

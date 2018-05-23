@@ -3,7 +3,11 @@
 
 |Component|Description|
 |---|---|
-|InputField|문자열을 입력할 수 있는 컴포넌트|
-|SearchField|검색을 위한 컴포넌트|
-|TextAreaField|다중 문자열을 입력할 수 있는 컴포넌트|
-|DropdownField|사용자 옵션을 정의하며 선택할 수 있는 컴포넌트|
+|Line|직선을 표현하는 컴포넌트|
+|Broken Line|꺽인 선을 표현하는 컴포넌트|
+|Curve|곡선을 표현하는 컴포넌트|
+|Circle|원을 표현하는 컴포넌트|
+|Rect|사각형을 표현하는 컴포넌트|
+|Stream Line|흐름이 있는 직선을 표현하는 컴포넌트|
+|Stream Curve|흐름이 있는 곡선을 표현하는 컴포넌트|
+|Stream Broken|흐름이 있는 꺽인 선을 표현하는 컴포넌트|

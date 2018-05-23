@@ -3,7 +3,4 @@
 
 |Component|Description|
 |---|---|
-|InputField|문자열을 입력할 수 있는 컴포넌트|
-|SearchField|검색을 위한 컴포넌트|
-|TextAreaField|다중 문자열을 입력할 수 있는 컴포넌트|
-|DropdownField|사용자 옵션을 정의하며 선택할 수 있는 컴포넌트|
+|Empty Clip|리소스 업로드를 통해 반복 움직임을 가진 이미지를 표현하는 컴포넌트|
