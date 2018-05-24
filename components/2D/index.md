@@ -12,4 +12,4 @@
 
 #### Methods
 
-2D Component does not provide any methods.
+2D Component는 함수를 제공하지 않습니다.

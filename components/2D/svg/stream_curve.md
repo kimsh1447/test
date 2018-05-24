@@ -1,5 +1,5 @@
 # Stream Curve Component
-> SVG Pack
+> 곡선에 흐름을 표현하는 컴포넌트
 
 #### Properties
 
@@ -30,13 +30,7 @@ Stream Broken Component does not provide any properties.
     </ul>
     <ul style="list-style:none;">
         <li>
-        <aside class="source_description">
-            <p>Inherited from WVSVGStreamLineComponent</p>
-            <ul>
-                <li>Defined in wemb/core/component/WVSVGStreamLineComponent.js:177</li>
-            </ul>
-        </aside>
-        <div class="parameters_title">Returns: <span class="data_type">void</span></div>
+            <div class="parameters_title">Returns: <span class="data_type">void</span></div>
         </li>
     </ul>
 </div>
@@ -51,24 +45,29 @@ Stream Broken Component does not provide any properties.
     </ul>
     <ul style="list-style:none;">
         <li>
-        <aside class="source_description">
-            <p>Inherited from WVSVGStreamLineComponent</p>
-            <ul>
-                <li>Defined in wemb/core/component/WVSVGStreamLineComponent.js:191</li>
-            </ul>
-        </aside>
         <div class="parameters_title">Returns: <span class="data_type">void</span></div>
         </li>
     </ul>
 </div>
 
 #### Events
-|이벤트명|설명|
-|---|---|
-|click|마우스 클릭시 발생|
-|dblclick|마우스 더블 클릭시 발생|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|화면에 해제시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|click||마우스 클릭시 발생|
+|dblclick||마우스 더블 클릭시 발생|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||화면에 해제시 발생|
 
-#### WScript Example
+#### How to use
+```js
+// 흐름의 속도를 변경하는 방법
+this.stop();
+this.setGroupPropertyValue("tweenInfo","duration",1000);
+this.play();
+
+// 흐름 자체의 사이즈를 변경하는 방법
+this.stop();
+this.setGroupPropertyValue("tweenInfo","streamSize", 100)
+this.play();
+```

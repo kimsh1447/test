@@ -1,5 +1,5 @@
 # Broken Line Component
-> SVG Pack
+> 꺽인 선을 구성할 수 있는 컴포넌트
 
 #### Properties
 
@@ -7,15 +7,20 @@ Broken Line Component does not provide any properties.
 
 #### Methods
 
-Broken Line Component does not provide any methods.
+Broken Line Component는 함수를 제공하지 않습니다.
 
 #### Events
-|이벤트명|설명|
-|---|---|
-|click|마우스 클릭시 발생|
-|dblclick|마우스 더블 클릭시 발생|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|화면에 해제시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|click||마우스 클릭시 발생|
+|dblclick||마우스 더블 클릭시 발생|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||화면에 해제시 발생|
 
-#### WScript Example
+#### How to use
+
+```js
+
+
+```

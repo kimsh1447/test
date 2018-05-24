@@ -20,4 +20,4 @@
 
 #### Methods
 
-3D Component does not provide any methods.
+3D Component는 함수를 제공하지 않습니다.

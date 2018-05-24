@@ -43,30 +43,17 @@
 </div>
 
 #### Events
-|이벤트명|설명|
-|---|---|
-|click|마우스 클릭시 발생|
-|dblclick|마우스 더블 클릭시 발생|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|컴포넌트 삭제시 발생|
-|change[^1]|데이터값이 변경될시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|click||마우스 클릭시 발생|
+|dblclick||마우스 더블 클릭시 발생|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||컴포넌트 삭제시 발생|
+|change|value|데이터값이 변경될시 발생|
 
-[^1]*change event information*
-```json
-{
-    name: "change",
-    label: "데이터 변경 이벤트",
-    description: "데이터 변경 이벤트 입니다.",
-    properties: [{
-        name: "value",
-        type: "string",
-        default: "",
-        description: "새로운 값입니다."
-    }]
-}
-```
-#### WScript Example
+
+#### How to use
 ```js
 // BasicGridComponent 데이터를 변경하는 예제
 this.dataProvider = 

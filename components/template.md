@@ -62,12 +62,12 @@
 
 ---
 #### Events
-|이벤트명|설명|
-|---|---|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|화면에 해제시 발생|
-|change[^2]|값을 선택시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||화면에 해제시 발생|
+|change|value|값을 선택시 발생|
 
 [^2]: *change event information*.
 ```json
@@ -85,7 +85,7 @@
 ```
 
 ---
-#### WScript Example
+#### How to use
 <!-- js-console -->
 ```js
 // DropdownComponent의 목록이 Sample01,Sample02로 변경되고, sample02가 선택되어지는 예제

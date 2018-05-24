@@ -17,35 +17,27 @@
 
 #### Methods
 
-NumericComponent does not provide any methods.
+NumericComponent는 함수를 제공하지 않습니다.
 
----
 #### Events
-|이벤트명|설명|
-|---|---|
-|click|마우스 클릭시 발생|
-|dblclick|마우스 더블 클릭시 발생|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|컴포넌트 삭제시 발생|
-|change[^1]|값을 선택시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|click||마우스 클릭시 발생|
+|dblclick||마우스 더블 클릭시 발생|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||컴포넌트 삭제시 발생|
+|change|`json`[^1]|값을 선택시 발생|
 
-[^1]*change event information*
+[^1]: *change*
 ```json
 {
-    name: "change",
-    label: "값 변경 이벤트",
-    description: "값 변경 이벤트 입니다.",
-    properties: [{
-        name: "value",
-        type: "string",
-        default: "",
-        description: "새로운 값입니다."
-    }]
+    "bar_value":0,
+    "text_value":"11%"
 }
 ```
 
-#### WScript Example
+#### How to use
 ```js
 // textComponent 툴팁 text를 바꾸는 예제
 this.text_value = "11.1%";

@@ -2,7 +2,7 @@
 > Vector UI를 구성할 수 있는 컴포넌트 팩
 
 |Component|Description|
-|---|---|
+|---|---|---|
 |Line|직선을 표현하는 컴포넌트|
 |Broken Line|꺽인 선을 표현하는 컴포넌트|
 |Curve|곡선을 표현하는 컴포넌트|

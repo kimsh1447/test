@@ -17,4 +17,4 @@ enum EXE_MODE {
 
 #### Methods
 
-Component does not provide any methods.
+Component는 함수를 제공하지 않습니다.

@@ -4,10 +4,10 @@
 #### Properties
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
-| selectItem | Info[^1]  | 리소스매니저에서 전달받은 리소스 경로 정보              |
+| selectItem | `json`[^1]  | 리소스매니저에서 전달받은 리소스 경로 정보              |
 | originSize | Boolean  | 리소스 원본 사이즈              |
 
-[^1]: *Info json*
+[^1]: *selectItem*
 ```json
 {
   compName: "컴포넌트 이름",
@@ -19,17 +19,17 @@
 
 #### Methods
 
-JsonLoaderComponent does not provide any methods.
+JsonLoaderComponent는 함수를 제공하지 않습니다.
 
 #### Events
-|이벤트명|설명|
-|---|---|
-|click|마우스 클릭시 발생|
-|dblclick|마우스 더블 클릭시 발생|
-|register|화면에 등록시 발생|
-|completed|리소스 로드 완료시 발생|
-|destroy|컴포넌트 삭제시 발생|
+|이벤트명|이벤트 인자|설명|
+|---|---|---|
+|click||마우스 클릭시 발생|
+|dblclick||마우스 더블 클릭시 발생|
+|register||화면에 등록시 발생|
+|completed||리소스 로드 완료시 발생|
+|destroy||컴포넌트 삭제시 발생|
 
-#### WScript Example
+#### How to use
 
-JsonLoaderComponent does not provide an example.
+JsonLoaderComponent은 기본 사용법을 참고하시기 바랍니다.

@@ -2,7 +2,7 @@
 > 차트를 구성할 수 있는 컴포넌트 팩
 
 |Component|Description|
-|---|---|
+|---|---|---|
 |Vertical Bar|수직 막대 컴포넌트|
 |Horizontal Bar|수평 막대 차트 컴포넌트|
 |Line|라인 차트 컴포넌트|
@@ -42,11 +42,6 @@
     </ul>
     <ul style="list-style:none;">
         <li>
-        <aside class="source_description">
-            <ul>
-                <li>Defined in static/component/2D/chart/core/ChartCoreComponent.js:94</li>
-            </ul>
-        </aside>
         <div class="parameters_title">Parameters</div>
         <ul class="parameters">
             <li>data: <span class="data_type">Array<`json`></span></li>
