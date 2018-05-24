@@ -6,12 +6,12 @@
 | :--------- | :------ | :-------------------------------------------------- |
 | value   | String | 사용자가 입력한 문자열                                |
 
----
+
 #### Methods
 
 InputFieldComponent does not provide any methods.
 
----
+
 #### Events
 |이벤트명|설명|
 |---|---|
@@ -37,12 +37,9 @@ InputFieldComponent does not provide any methods.
 }
 ```
 
----
 #### WScript Example
 <!-- js-console -->
 ```js
 // SearchFieldComponent의 값을 테스트로 입력하는 예제
 this.value = "테스트";
 ```
-
----

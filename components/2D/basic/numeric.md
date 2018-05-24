@@ -53,5 +53,3 @@ this.text_value = "11.1%";
 // textComponent bar Value를 바꾸는 예제
 this.bar_value = "60";
 ```
-
----

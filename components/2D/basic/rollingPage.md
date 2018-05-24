@@ -83,5 +83,3 @@ this.stop();
 // RollingPageComponent 페이지 반복 로딩을 실행하는 예제
 this.play();
 ```
-
----

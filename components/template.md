@@ -95,5 +95,3 @@ this.value = "sample02";
 ```
 
 ---
-![gras](../../images/dropdown.png)
-<p align="right" style="font-style:italic;">화면예시</p>

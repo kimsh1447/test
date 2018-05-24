@@ -41,5 +41,3 @@ TextComponent does not provide any methods.
 // textComponent text를 바꾸는 예제
 this.text = "textComponent test!";
 ```
-
----

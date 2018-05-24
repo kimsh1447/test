@@ -12,7 +12,6 @@
 |Stream Curve|흐름이 있는 곡선을 표현하는 컴포넌트|
 |Stream Broken|흐름이 있는 꺽인 선을 표현하는 컴포넌트|
 
----
 
 #### SVG Line Common Properties
 | Name | Type | Desc |

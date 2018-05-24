@@ -42,5 +42,3 @@ TickerComponent does not provide any methods.
 this.text =  "Hello World!";
 
 ```
-
----

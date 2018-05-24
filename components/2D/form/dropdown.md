@@ -15,12 +15,10 @@
 }
 ```
 
----
 #### Methods
 
 DropdownFieldComponent does not provide any methods.
 
----
 #### Events
 |이벤트명|설명|
 |---|---|
@@ -44,7 +42,6 @@ DropdownFieldComponent does not provide any methods.
 }
 ```
 
----
 #### WScript Example
 <!-- js-console -->
 ```js
@@ -53,5 +50,3 @@ this.options = [{text:"Sample01",value:"sample01"},
                 {text:"Sample02",value:"sample02"}];
 this.value = "sample02";
 ```
-
----

@@ -24,5 +24,3 @@ DigitalClockComponent does not provide any methods.
 // DigitalClockComponent 시간 포맷을 바꾸는 예제
 this.dateFormat = "yyyy-MM-dd HH:mm:ss";
 ```
-
----

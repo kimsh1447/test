@@ -25,5 +25,3 @@ BarProgressComponent does not provide any methods.
 // BarProgressComponent의 그래프를 10%로 바꾸는 예제
 this.value = 10;
 ```
-
----

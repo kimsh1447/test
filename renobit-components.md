@@ -1,11 +1,20 @@
-# Renobit Components Introduction
+# Renobit Components
 
 #### Common Properties
 | Name | Type | Desc |
 | --- | --- | --- |
 | visible | boolean | 컴포넌트의 보임/안보임 상태 |
-| exeMode | ENUM | 컴포넌트가 실행 모드 |
+| exeMode | ENUM[^1] | 컴포넌트의 실행 주체 |
+
+[^1]: exeMode
+```json
+enum EXE_MODE {
+    EDITOR="editor",
+    VIEWER="viewer"
+}
+```
+
 
 #### Methods
 
-3D Component does not provide any methods.
+Component does not provide any methods.

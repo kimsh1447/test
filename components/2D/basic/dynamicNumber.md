@@ -41,5 +41,3 @@ DynamicNumberComponent does not provide any methods.
 // DynamicNumberComponent 숫자를 바꾸는 예제
 this.value = "100000";
 ```
-
----

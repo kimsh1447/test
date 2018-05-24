@@ -5,7 +5,7 @@
 Line Chart Component does not provide any properties.
 
 #### Methods
-Line Chart Component does not provide any methods.
+Line Chart Component does not provide any methods. It is provide only Common Chart Methods.
 
 #### Events
 |이벤트명|설명|

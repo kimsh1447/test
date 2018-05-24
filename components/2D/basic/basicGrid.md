@@ -78,5 +78,3 @@ this.dataProvider =
 this.render();
 
 ```
-
----
