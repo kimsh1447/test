@@ -21,6 +21,11 @@ BasicMenuComponent does not provide any methods.
 |register|화면에 등록시 발생|
 |completed|어떤? 완료시 발생|
 |destroy|화면에 해제시 발생|
-|change|값을 선택시 발생|
+|selectMenuItem|메뉴 선택시 발생|
 
 #### WScript Example
+<!-- js-console -->
+```js
+// MenuSetComponent가 다른 메뉴셋을 로드하여 화면에 표시하게 되는 예제
+this.menuSetId = "130741114213-....";
+```
