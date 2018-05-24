@@ -32,7 +32,7 @@
         * [Sprite Pack](components/2D/sprite/index.md)
             * [Basic Sprite Component](components/2D/sprite/basic_sprite.md)
         * [State Pack](components/2D/state/index.md)
-            * [Basic State Component](components/2D/sprite/basic_state.md)
+            * [Basic State Component](components/2D/state/basic_state.md)
         * [Progress Pack](components/2D/progress/index.md)
             * [Bar Progress Component](components/2D/progress/progress_bar.md)
             * [Circle Progress Component](components/2D/progress/progress_circle.md)

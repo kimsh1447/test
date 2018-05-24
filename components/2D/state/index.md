@@ -3,4 +3,4 @@
 
 |Component|Description|
 |---|---|
-|Empty Clip|리소스 업로드를 통해 상태정보를 구성할 수 있는 컴포넌트|
+|Basic State|리소스 업로드를 통해 상태정보를 구성할 수 있는 컴포넌트|

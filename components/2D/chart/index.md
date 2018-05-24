@@ -18,5 +18,4 @@
 #### Chart Common Properties
 | Name | Type | Desc |
 | --- | --- | --- |
-| datasetId | String | 차트를 표현하기 위한 데이터셋 고유키 |
-| autoExecute | boolean | 차트의 자동 시작에 대한 설정 |
+| dataProvider | Array<`any`> | 차트를 표현하기 위한 데이터셋 고유키 |

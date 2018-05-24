@@ -3,4 +3,4 @@
 
 |Component|Description|
 |---|---|
-|Empty Clip|리소스 업로드를 통해 반복 움직임을 가진 이미지를 표현하는 컴포넌트|
+|Basic Sprite|리소스 업로드를 통해 반복 움직임을 가진 이미지를 표현하는 컴포넌트|

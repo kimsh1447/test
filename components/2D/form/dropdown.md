@@ -25,7 +25,7 @@ DropdownFieldComponent does not provide any methods.
 |이벤트명|설명|
 |---|---|
 |register|화면에 등록시 발생|
-|completed|어떤? 완료시 발생|
+|completed|리소스 로드 완료시 발생|
 |destroy|화면에 해제시 발생|
 |change[^2]|값을 선택시 발생|
 
@@ -55,5 +55,3 @@ this.value = "sample02";
 ```
 
 ---
-![gras](../../images/dropdown.png)
-<p align="right" style="font-style:italic;">화면예시</p>
