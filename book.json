@@ -4,7 +4,7 @@
     "description":"Renobit Solution Documents",
     "pdf":{
         "pageNumbers":true,
-        "fontSize":12,
+        "fontSize":11,
         "fontFamily":"Arial",
         "margin":{
             "top":40,
@@ -25,6 +25,25 @@
         "js-console"
     ],
     "pluginsConfig": {
-        
+        "autocover": {
+            "title": "RENOBIT COMPONENTS MANUAL",
+            "author": "WeMB",
+            "pluginsConfig": {
+                "autocover": {
+                    "font": {
+                        "size": null,
+                        "family": "Impact",
+                        "color": "#FFF"
+                    },
+                    "size": {
+                        "w": 1800,
+                        "h": 2360
+                    },
+                    "background": {
+                        "color": "#09F"
+                    }
+                }
+            }
+        }
     }
 }

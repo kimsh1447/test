@@ -20,6 +20,7 @@ critical,major,minor,warning,normal
 ```
 
 #### Methods
+Basic State Component does not provide any methods.
 
 #### Events
 |이벤트명|설명|

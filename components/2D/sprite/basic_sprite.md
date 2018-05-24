@@ -20,6 +20,7 @@
 ```
 
 #### Methods
+Basic Sprite Component does not provide any methods.
 
 #### Events
 |이벤트명|설명|
