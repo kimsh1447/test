@@ -1,9 +1,8 @@
-# Stack Column Component
+# Stack Column Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Stack Column Chart Component does not provide any properties.
 
 #### Methods
 

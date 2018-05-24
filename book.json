@@ -15,12 +15,6 @@
         "paperSize":"a4"
     },
     "plugins":[
-        "nunjucks",
-        "anchors",
-        "include-highlight",
-        "mathjax",
-        "richquotes",
-        "toc",
         "expandable-chapters",
         "hints",
         "simpletabs",
@@ -31,14 +25,6 @@
         "js-console"
     ],
     "pluginsConfig": {
-        "mathjax": {
-          "forceSVG": true
-        },
-        "ga": {
-          "token": "UA-XXXXXXXX-1"
-        },
-        "sectionx": {
-            "tag": "b"
-        }
-      }
+        
+    }
 }

@@ -12,3 +12,11 @@
 |Area|영역 차트 컴포넌트|
 |Column Line|컬럼 라인 차트 컴포넌트|
 |Stack Line|스택 라인 차트 컴포넌트|
+
+---
+
+#### Chart Common Properties
+| Name | Type | Desc |
+| --- | --- | --- |
+| datasetId | String | 차트를 표현하기 위한 데이터셋 고유키 |
+| autoExecute | boolean | 차트의 자동 시작에 대한 설정 |

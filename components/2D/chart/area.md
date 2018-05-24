@@ -1,9 +1,8 @@
-# Area Component
+# Area Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Area Chart Component does not provide any properties.
 
 #### Methods
 

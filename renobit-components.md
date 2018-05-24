@@ -1,4 +1,11 @@
 # Renobit Components Introduction
-> 2D Components
 
-x,y 좌표와 크기 정보를 공통으로 지닌 컴포넌트
+#### Common Properties
+| Name | Type | Desc |
+| --- | --- | --- |
+| visible | boolean | 컴포넌트의 보임/안보임 상태 |
+| exeMode | ENUM | 컴포넌트가 실행 모드 |
+
+#### Methods
+
+3D Component does not provide any methods.
