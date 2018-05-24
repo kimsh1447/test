@@ -10,7 +10,7 @@
         * [InputFieldComponent](components/form/input.md)
         * [SearchFieldComponent](components/form/search.md)
         * [TextAreaFieldComponent](components/form/textarea.md)
-        * [DropdownComponent](components/form/dropdown.md)
+        * [DropdownFieldComponent](components/form/dropdown.md)
     * [Menu Pack](components/menu/index.md)
         * [Basic Menu Component](components/menu/basic_menu.md)
     * [Sprite Pack](components/sprite/index.md)

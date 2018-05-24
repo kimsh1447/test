@@ -45,7 +45,7 @@
     <ul style="list-style:none;">
         <li>
         <aside class="source_description">
-            <p >Implementation of IWVDisplayObject</p>
+            <p>Implementation of IWVDisplayObject</p>
             <p>Inherited from WVDisplayObject</p>
             <ul>
                 <li>Defined in static/component/2D/form/DropdownFieldComponent/DropdownFieldComponent.js:99</li>
