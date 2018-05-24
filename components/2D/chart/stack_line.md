@@ -1,9 +1,8 @@
-# Stack Line Component
+# Stack Line Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Stack Line Chart Component does not provide any properties.
 
 #### Methods
 

@@ -1,9 +1,8 @@
-# Column Line Component
+# Column Line Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Column Line Chart Component does not provide any properties.
 
 #### Methods
 

@@ -1,9 +1,8 @@
-# Horizontal Bar Component
+# Horizontal Bar Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Horizontal Bar Chart Component does not provide any properties.
 
 #### Methods
 

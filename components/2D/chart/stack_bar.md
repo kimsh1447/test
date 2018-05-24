@@ -1,9 +1,8 @@
-# Stack Bar Component
+# Stack Bar Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Stack Bar Chart Component does not provide any properties.
 
 #### Methods
 

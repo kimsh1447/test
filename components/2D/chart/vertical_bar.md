@@ -1,9 +1,8 @@
-# Vertical Bar Component
+# Vertical Bar Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Vertical Bar Chart Component does not provide any properties.
 
 #### Methods
 

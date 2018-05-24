@@ -1,9 +1,8 @@
-# Line Component
+# Line Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Line Chart Component does not provide any properties.
 
 #### Methods
 

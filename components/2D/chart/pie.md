@@ -1,9 +1,8 @@
-# Pie Component
+# Pie Chart Component
 > ChartPack
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+Pie Chart Component does not provide any properties.
 
 #### Methods
 
