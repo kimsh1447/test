@@ -3,6 +3,6 @@
 
 |Component|Description|
 |---|---|
-|Box|기본 박스 컴포넌트|
-|Obj Loader|Obj를 로드할 수 있는 컴포넌트|
-|Json Loader|Json을 로드할 수 있는 컴포넌트|
+|Box|기본 사각형 컴포넌트|
+|ObjLoader|리소스매니저를 이용하여 obj파일을 나타내는 컴포넌트|
+|JsonLoader|리소스매니저를 이용하여 애니메이션이 포함되어 있는 json파일을 나타내는 컴포넌트|

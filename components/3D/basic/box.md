@@ -1,11 +1,13 @@
-# Basic Box Component
-> Basic Pack
+# BoxComponent
+> 기본 사각형 컴포넌트 입니다.
 
 #### Properties
-| Name | Type | Desc |
-| --- | --- | --- |
+
+BoxComponent does not take any Properties.
 
 #### Methods
+
+BoxComponent does not provide any methods.
 
 #### Events
 |이벤트명|설명|
@@ -15,6 +17,7 @@
 |register|화면에 등록시 발생|
 |completed|어떤? 완료시 발생|
 |destroy|화면에 해제시 발생|
-|change|값을 선택시 발생|
 
 #### WScript Example
+
+BoxComponent does not provide an example.

@@ -18,7 +18,7 @@
             * [TemplateComponent](components/2D/basic/template.md)
             * [PageComponent](components/2D/basic/page.md)
             * [RollingPageComponent](components/2D/basic/rollingPage.md)
-            * [activeGroupButtonComponent](components/2D/basic/activeGroupButton.md)
+            * [ActiveGroupButtonComponent](components/2D/basic/activeGroupButton.md)
             * [GroupButtonComponent](components/2D/basic/groupButton.md)
             * [TickerComponent](components/2D/basic/ticker.md)
             * [NumericComponent](components/2D/basic/numeric.md)
