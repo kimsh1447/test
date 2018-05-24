@@ -4,8 +4,18 @@
 #### Properties
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
-| selectItem | Object  | 리소스매니저에서 전달받은 리소스 경로 정보              |
-| originSize | bollean  | 리소스 원본 사이즈              |
+| selectItem | Info[^1]  | 리소스매니저에서 전달받은 리소스 경로 정보              |
+| originSize | Boolean  | 리소스 원본 사이즈              |
+
+[^1]: *Info json*
+```json
+{
+  compName: "컴포넌트 이름",
+  jsonPath: "리소스 경로",
+  texturePath: "리소스의 texture 경로",
+  recycleYn: "재사용 여부 ( Pool에 담겨 재사용 )",
+}
+```
 
 #### Methods
 

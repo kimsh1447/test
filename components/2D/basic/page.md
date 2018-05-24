@@ -5,7 +5,7 @@
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
 | pageName | String  | pageName 정보                                        |
-| usingPopupPage | boolean  | 팝업 페이지 사용 유무                             |
+| usingPopupPage | Boolean  | 팝업 페이지 사용 유무                             |
 | overflow | String  | overflow 여부                             |
 
 #### Methods
