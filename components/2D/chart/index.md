@@ -67,3 +67,13 @@ this.makeChartData(data);
 console.log(event.data.value);
 // 결과값(샘플) > [{"name":"홍길동","age":81,"weight":74,"height":185}]
 ```
+
+---
+![gras](./images/chart01.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">데이터셋 설정 및 미리보기 화면</p>
+
+![gras](./images/chart02.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">차트 축 설정 및 미리보기 화면</p>
+
+![gras](./images/chart03.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">차트 스타일 설정화면</p>
