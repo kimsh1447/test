@@ -21,6 +21,13 @@ DigitalClockComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 ```js
-// DigitalClockComponent 시간 포맷을 바꾸는 예제
-this.dateFormat = "yyyy-MM-dd HH:mm:ss";
+// 해당 컴포넌트의 속성을 변경하는 방법 01.
+this.text = "yyyy-MM-dd HH:mm:ss";
+// 해당 컴포넌트의 속성을 변경하는 방법 02.
+this.setGroupPropertyValue("setter","dateFormat", "yyyy-MM-dd HH:mm:ss")
 ```
+
+#### Example
+
+![gras](./images/digital_clock.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">디지털 시계 설정 화면</p>

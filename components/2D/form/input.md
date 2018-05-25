@@ -29,10 +29,13 @@ InputFieldComponent는 함수를 제공하지 않습니다.
 this.value = "sample";
 // 해당 컴포넌트의 속성을 변경하는 방법 02
 this.setGroupPropertyValue("setter","value","sample");
+
 // 이벤트 인자 확인 방법
 console.log(event.data.value);
+// 결과값(샘플) > sample
 ```
 
 #### Example
 
 ![gras](./images/input.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">Input Field 설정 화면</p>

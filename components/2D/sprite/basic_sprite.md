@@ -32,3 +32,10 @@ Basic Sprite Component는 함수를 제공하지 않습니다.
 |destroy||화면에 해제시 발생|
 
 #### How to use
+
+SpriteComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+#### Example
+
+![gras](./images/sprite.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">Sprite 설정 화면</p>

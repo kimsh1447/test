@@ -55,14 +55,7 @@
         <li>페이지 반복 로딩을 멈추는 함수</li>
     </ul>
     <ul style="list-style:none;">
-        <li>
-        <aside class="source_description">
-            <ul>
-                <li>Defined in static/component/2D/basic/RollingPageComponent/RollingPageComponent.js</li>
-            </ul>
-        </aside>
-        <div class="parameters_title">Returns: <span class="data_type">void</span></div>
-        </li>
+        <li><div class="parameters_title">Returns: <span class="data_type">void</span></div></li>
     </ul>
 </div>
 
@@ -83,3 +76,8 @@ this.stop();
 // RollingPageComponent 페이지 반복 로딩을 실행하는 예제
 this.play();
 ```
+
+#### Example
+
+![gras](./images/rolling_page.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">페이지 슬라이드 설정화면</p>

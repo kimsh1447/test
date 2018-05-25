@@ -3,7 +3,7 @@
 
 #### Properties
 
-Line Component does not provide any properties.
+Line Component는 속성을 제공하지 않습니다.
 
 #### Methods
 
@@ -19,6 +19,11 @@ Line Component는 함수를 제공하지 않습니다.
 |destroy||화면에 해제시 발생|
 
 #### How to use
-```js
 
-```
+상위 페이지 SVG Pack의 기본 사용법만 제공합니다.
+
+
+#### Example
+
+![gras](./images/line.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

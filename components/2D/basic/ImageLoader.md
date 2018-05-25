@@ -20,4 +20,9 @@ ImageLoaderComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 
-ImageLoaderComponent은 기본 사용법을 참고하시기 바랍니다.
+ImageLoaderComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+#### Example
+
+![gras](./images/image_loader.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">이미지 로더 설정 화면</p>

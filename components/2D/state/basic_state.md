@@ -33,4 +33,9 @@ Basic State Component는 함수를 제공하지 않습니다.
 
 #### How to use
 
-사용법은 추후에 제공하겠습니다.
+StateComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+#### Example
+
+![gras](./images/state.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">State 설정 화면</p>

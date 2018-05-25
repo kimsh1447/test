@@ -9,6 +9,7 @@
 
 #### Methods
 CircleProgressComponent는 함수를 제공하지 않습니다.
+2D Component에서 제공하는 기본 속성만 제공합니다.
 
 #### Events
 |이벤트명|이벤트 인자|설명|
@@ -21,8 +22,19 @@ CircleProgressComponent는 함수를 제공하지 않습니다.
 |change|value|값을 선택시 발생|
 
 #### How to use
-<!-- js-console -->
 ```js
-// CircleProgressComponent의 그래프를 10%로 바꾸는 예제
+// 해당 컴포넌트의 속성을 변경하는 방법 01
 this.value = 50;
+// 해당 컴포넌트의 속성을 변경하는 방법 02
+this.setGroupPropertyValue("setter","value",50);
+
+// 이벤트 인자 확인 방법
+console.log(event.data.value);
+// 결과값(샘플) > 50
 ```
+
+
+#### Example
+
+![gras](./images/circle.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

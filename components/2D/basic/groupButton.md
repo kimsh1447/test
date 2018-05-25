@@ -23,4 +23,19 @@ GroupButtonComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 
-GroupButtonComponent은 기본 사용법을 참고하시기 바랍니다.
+```js
+var list = ["item01", "item02", "item03"];
+
+// 해당 컴포넌트의 속성을 변경하는 방법 01
+this.items = list;
+// 해당 컴포넌트의 속성을 변경하는 방법 02.
+this.setGroupPropertyValue("setter","items", list);
+// 이벤트 인자 확인 방법
+console.log(event.data.index);
+// 결과값(샘플) > 1
+```
+
+#### Example
+
+![gras](./images/button_group.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">버튼 리스트 구성 및 미리보기</p>

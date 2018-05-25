@@ -23,6 +23,18 @@ DynamicNumberComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 ```js
-// DynamicNumberComponent 숫자를 바꾸는 예제
-this.value = "100000";
+// 해당 컴포넌트의 속성을 변경하는 방법 01.
+this.value = "123456";
+// 해당 컴포넌트의 속성을 변경하는 방법 02.
+this.setGroupPropertyValue("setter","value", "123456")
+this.setGroupPropertyValue("normal","format", "(,ddd)");
+// 이벤트 인자 확인 방법
+console.log(event.data.value);
 ```
+**현재 스크립트에서 format을 바꾸더라도 화면 갱신이 이루어지지 않고 있습니다. 코드 수정이 필요합니다.**
+
+
+#### Example
+
+![gras](./images/dynamic_number.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">Dynamic Number 설정 화면</p>

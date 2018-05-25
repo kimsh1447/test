@@ -27,21 +27,23 @@ NumericComponent는 함수를 제공하지 않습니다.
 |register||화면에 등록시 발생|
 |completed||리소스 로드 완료시 발생|
 |destroy||컴포넌트 삭제시 발생|
-|change|`json`[^1]|값을 선택시 발생|
-
-[^1]: *change*
-```json
-{
-    "bar_value":0,
-    "text_value":"11%"
-}
-```
+|change|value|값을 선택시 발생|
 
 #### How to use
 ```js
-// textComponent 툴팁 text를 바꾸는 예제
+// 해당 컴포넌트의 속성을 변경하는 방법 01.
 this.text_value = "11.1%";
+this.bar_value = 60;
+// 해당 컴포넌트의 속성을 변경하는 방법 02.
+this.setGroupPropertyValue("setter","text_value", "11.1%")
+this.setGroupPropertyValue("setter","bar_value", "60")
 
-// textComponent bar Value를 바꾸는 예제
-this.bar_value = "60";
+// 이벤트 인자 확인 방법
+console.log(event.data.value);
+// 결과값(샘플) > [{ "bar_value" : 60, "value": "11%" }]
 ```
+
+#### Example
+
+![gras](./images/numeric.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">Numeric 프로퍼티 설정 및 에디터 화면</p>

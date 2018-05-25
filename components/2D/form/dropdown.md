@@ -39,9 +39,11 @@ this.setGroupPropertyValue("setter","options",[{text:"Sample01",value:"sample01"
 this.setGroupPropertyValue("setter","value","sample02");
 // 이벤트 인자 확인 방법
 console.log(event.data.value);
+// 결과값(샘플) > sample02
 ```
-<br>
-<br>
+
+
 #### Example
 
 ![gras](./images/dropdown.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">Dropdown 목록 설정 화면</p>

@@ -29,9 +29,7 @@
         <li>데이터를 설정된 template으로 화면에 표출 하는 함수</li>
     </ul>
     <ul style="list-style:none;">
-        <li>
-
-        </li>
+        <li><div class="parameters_title">Returns: <span class="data_type">void</span></div></li>
     </ul>
 </div>
 
@@ -48,13 +46,22 @@
 
 #### How to use
 ```js
-// TemplateComponent 데이터를 변경하는 예제
-this.dataProvider = 
-    [{
-        "key" : "test",
-        "value": "textValue"
-    }];
+var data = [{ "key" : "test", "value": "textValue" }];
 
+// 해당 컴포넌트의 속성을 변경하는 방법 01.
+this.dataProvider = data;
+// 해당 컴포넌트의 속성을 변경하는 방법 02.
+this.setGroupPropertyValue("setter","dataProvider", data)
+// 해당 컴포넌트의 경우 dataProvider 변경 후 render 함수를 사용하여야만 화면 갱신이 이루어집니다.
 this.render();
 
+// 이벤트 인자 확인 방법
+console.log(event.data.value);
+// 결과값(샘플) > [{ "key" : "test", "value": "textValue" }]
+
 ```
+
+#### Example
+
+![gras](./images/template.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">템플릿 HTML/CSS/DATA 설정</p>

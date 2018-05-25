@@ -54,3 +54,16 @@
 {% hint style="danger" %}
     Parameter(Array<`json`>)의 json 형태는 에디터에서 설정되어진 형태이어야만 한다.
 {% endhint %}
+
+
+#### How to use
+
+```js
+// 함수 호출하여 기존 차트의 데이터를 갱신하는 방법
+var data = [{"name":"홍길동","age":81,"weight":74,"height":185}]
+this.makeChartData(data);
+
+// 이벤트 인자 확인 방법
+console.log(event.data.value);
+// 결과값(샘플) > [{"name":"홍길동","age":81,"weight":74,"height":185}]
+```

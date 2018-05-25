@@ -32,4 +32,4 @@ ObjLoaderComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 
-ObjLoaderComponent은 기본 사용법을 참고하시기 바랍니다.
+ObjLoaderComponent은 컴포넌트의 기본 사용법만 제공합니다.

@@ -15,6 +15,13 @@ Line Chart Component는 함수를 제공하지 않습니다. 상위 함수만 �
 |register||화면에 등록시 발생|
 |completed||리소스 로드 완료시 발생|
 |destroy||화면에 해제시 발생|
-|change||데이터 변경시 발생|
+|change|value|데이터 변경시 발생|
 
 #### How to use
+
+상위 페이지 Chart Pack의 기본 사용법만 제공합니다.
+
+#### Example
+
+![gras](./images/line.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">설정된 차트 컴포넌트</p>

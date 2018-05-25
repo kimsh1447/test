@@ -33,14 +33,18 @@ BasicMenuComponent는 함수를 제공하지 않습니다.
 ```
 
 #### How to use
-<!-- js-console -->
 ```js
 // 해당 컴포넌트의 속성을 변경하는 방법01
 this.menuSetId = "130741114213-....";
 // 해당 컴포넌트의 속성을 변경하는 방법02
 this.setGroupPropertyValue("setter","menuSetId","130741114213-....");
+
+// 이벤트 인자 확인 방법
+console.log(event.data);
+// 결과값(샘플) > {type: "page", isPopup: false, url: "5ec46ada-65ed-4cb4-a399-8cb0abb2e80f"}
 ```
 
 #### Example
 
 ![gras](./images/menu.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">메뉴셋 설정 화면</p>

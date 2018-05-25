@@ -21,4 +21,9 @@ TextEditorComponent는 함수를 제공하지 않습니다.
 
 #### How to use
 
-TextEditorComponent은 기본 사용법을 참고하시기 바랍니다.
+TextEditorComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+#### Example
+
+![gras](./images/text_editor.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">텍스트 에디터 설정화면</p>

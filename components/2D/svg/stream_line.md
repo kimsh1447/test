@@ -3,7 +3,7 @@
 
 #### Properties
 
-Stream Broken Component does not provide any properties.
+Stream Broken Component는 속성을 제공하지 않습니다.
 
 #### Methods
 
@@ -61,13 +61,19 @@ Stream Broken Component does not provide any properties.
 
 #### How to use
 ```js
-// 흐름의 속도를 변경하는 방법
-this.stop();
-this.setGroupPropertyValue("tweenInfo","duration",1000);
-this.play();
+// stream에 대한 옵션 변경하는 방법.
+this.setGroupPropertyValue("tweenInfo","duration",1000); //속도 제어
+this.setGroupPropertyValue("tweenInfo","streamSize", 100); //스트림에 대한 크기 제어
 
-// 흐름 자체의 사이즈를 변경하는 방법
-this.stop();
-this.setGroupPropertyValue("tweenInfo","streamSize", 100)
+// 흐름 시작
 this.play();
+// 흐름 중지
+this.stop();
+// 흐름의 옵션을 변경하기 위해서는 항상 중지 후 변경하셔야 적용됩니다.
 ```
+
+
+#### Example
+
+![gras](./images/stream_line.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>
