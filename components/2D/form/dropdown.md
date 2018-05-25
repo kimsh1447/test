@@ -43,7 +43,7 @@ console.log(event.data.value);
 ```
 
 
-#### Example
+---
 
 ![gras](./images/dropdown.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Dropdown 목록 설정 화면</p>

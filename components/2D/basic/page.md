@@ -25,7 +25,7 @@ PageComponent는 함수를 제공하지 않습니다.
 
 PageComponent은 컴포넌트의 기본 사용법만 제공합니다.
 
-#### Example
+---
 
 ![gras](./images/page.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">단일 페이지 설정화면</p>

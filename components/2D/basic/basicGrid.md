@@ -65,7 +65,7 @@ console.log(event.data.value);
 
 ```
 
-#### Example
+---
 
 ![gras](./images/basic_grid01.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">데이터셋 설정</p>

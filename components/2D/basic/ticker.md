@@ -83,7 +83,7 @@ console.log(event.data.value);
 // 결과값(샘플) > sample_text
 ```
 
-#### Example
+---
 
 ![gras](./images/ticker.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Ticker 프로퍼티 설정 및 에디터 화면</p>

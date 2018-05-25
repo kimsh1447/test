@@ -43,7 +43,7 @@ console.log(event.data.value);
 // 결과값(샘플) > [{ "bar_value" : 60, "value": "11%" }]
 ```
 
-#### Example
+---
 
 ![gras](./images/numeric.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Numeric 프로퍼티 설정 및 에디터 화면</p>

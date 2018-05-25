@@ -36,7 +36,7 @@ console.log(event.data.value);
 ```
 
 
-#### Example
+---
 
 ![gras](./images/textarea.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">TextArea Field 설정 화면</p>

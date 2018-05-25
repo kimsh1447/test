@@ -36,7 +36,7 @@ console.log(event.data.value);
 // 결과값(샘플) > sample
 ```
 
-#### Example
+---
 
 ![gras](./images/search.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Search Field 설정 화면</p>

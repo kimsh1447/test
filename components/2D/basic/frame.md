@@ -22,7 +22,7 @@ FrameComponent는 함수를 제공하지 않습니다.
 
 FrameComponent은 컴포넌트의 기본 사용법만 제공합니다.
 
-#### Example
+---
 
 ![gras](./images/frame.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">프레임 컴포넌트 설정 화면</p>

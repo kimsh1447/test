@@ -61,7 +61,7 @@ console.log(event.data.value);
 
 ```
 
-#### Example
+---
 
 ![gras](./images/template.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">템플릿 HTML/CSS/DATA 설정</p>

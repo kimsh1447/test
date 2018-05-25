@@ -77,7 +77,7 @@ this.stop();
 this.play();
 ```
 
-#### Example
+---
 
 ![gras](./images/rolling_page.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">페이지 슬라이드 설정화면</p>

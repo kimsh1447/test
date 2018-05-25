@@ -35,7 +35,7 @@ console.log(event.data.value);
 // 결과값(샘플) > sample
 ```
 
-#### Example
+---
 
 ![gras](./images/input.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Input Field 설정 화면</p>

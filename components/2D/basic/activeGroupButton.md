@@ -37,7 +37,7 @@ console.log(event.data.index);
 // 결과값(샘플) > 1
 ```
 
-#### Example
+---
 
 ![gras](./images/active_button_group.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">버튼 리스트 구성 및 미리보기</p>

@@ -32,7 +32,7 @@ this.setGroupPropertyValue("setter","value", "sample_text")
 console.log(event.data.value);
 ```
 
-#### Example
+---
 
 ![gras](./images/text.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Text 프로퍼티 설정 및 에디터 화면</p>

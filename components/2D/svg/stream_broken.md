@@ -74,7 +74,7 @@ this.stop();
 ```
 
 
-#### Example
+---
 
 ![gras](./images/stream_broken.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

@@ -21,7 +21,7 @@ Vertical Bar Chart Component는 함수를 제공하지 않습니다. 상위 함�
 
 상위 페이지 Chart Pack의 기본 사용법만 제공합니다.
 
-#### Example
+---
 
 ![gras](./images/vertical_bar.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">설정된 차트 컴포넌트</p>

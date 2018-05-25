@@ -22,7 +22,7 @@ ImageButtonComponent는 함수를 제공하지 않습니다.
 
 ImageButtonComponent은 컴포넌트의 기본 사용법만 제공합니다.
 
-#### Example
+---
 
 ![gras](./images/image_button.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">이미지 버튼 설정 화면</p>

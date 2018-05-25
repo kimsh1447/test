@@ -32,7 +32,7 @@ console.log(event.data.value);
 ```
 
 
-#### Example
+---
 
 ![gras](./images/bar.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

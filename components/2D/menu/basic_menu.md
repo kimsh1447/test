@@ -44,7 +44,7 @@ console.log(event.data);
 // 결과값(샘플) > {type: "page", isPopup: false, url: "5ec46ada-65ed-4cb4-a399-8cb0abb2e80f"}
 ```
 
-#### Example
+---
 
 ![gras](./images/menu.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">메뉴셋 설정 화면</p>

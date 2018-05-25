@@ -22,7 +22,7 @@ Broken Line Component는 함수를 제공하지 않습니다.
 
 상위 페이지 SVG Pack의 기본 사용법만 제공합니다.
 
-#### Example
+---
 
 ![gras](./images/broken_line.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

@@ -34,7 +34,7 @@ console.log(event.data.value);
 **현재 스크립트에서 format을 바꾸더라도 화면 갱신이 이루어지지 않고 있습니다. 코드 수정이 필요합니다.**
 
 
-#### Example
+---
 
 ![gras](./images/dynamic_number.png)
 <p align="right" style="margin-top: -.85em;font-style: italic;">Dynamic Number 설정 화면</p>
