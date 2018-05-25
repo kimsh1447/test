@@ -21,3 +21,7 @@ BoxComponent는 함수를 제공하지 않습니다.
 #### How to use
 
 BoxComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+---
+![gras](./images/box.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>

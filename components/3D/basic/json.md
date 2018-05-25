@@ -33,3 +33,7 @@ JsonLoaderComponent는 함수를 제공하지 않습니다.
 #### How to use
 
 JsonLoaderComponent은 컴포넌트의 기본 사용법만 제공합니다.
+
+---
+![gras](./images/json_loader.png)
+<p align="right" style="margin-top: -.85em;font-style: italic;">에디터 설정 화면</p>
