@@ -5,7 +5,6 @@
 | Name       | Type    | Desc                                                |
 | :--------- | :------ | :-------------------------------------------------- |
 | items | Array<`String`>  | item의 label 배열                             |
-| active | Number  | 활성화 되어 있는 item의 index                                               |
 
 #### Methods
 
